@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+A branch in Git is like a plan of reality.
+Each branch is a sort of parallel universe in which some things are the same and some other are different.
+We can easily switch from one to another and apply our updates only to the one where we made them.
